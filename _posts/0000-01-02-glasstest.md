@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	<b>xxxxxxxxxxxxxxxxxxxxxxxx</b>
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
